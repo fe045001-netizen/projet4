@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="TPAssociations/src"/>
+	<classpathentry kind="src" path="TPAssociations1/src"/>
+	<classpathentry kind="src" path="TPAssociations2/src"/>
+	<classpathentry kind="src" path="TPAssociations3/src"/>
+	<classpathentry kind="output" path="TPAssociations/bin"/>
+</classpath>
